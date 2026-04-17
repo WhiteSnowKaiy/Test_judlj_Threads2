@@ -1,5 +1,5 @@
 public class Sklad {
-    private int pocet_kolacu = 1;
+    private int pocet_kolacu = 15;
     private int pocet_pokusu = 0;
 
     public synchronized void addPocet_pokusu(int cislo) {
